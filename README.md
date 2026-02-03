@@ -17,7 +17,8 @@
 
 ---
 
-- 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**  
+- 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**
+  
 - 🌱 I’m currently refreshing (from my degree) and deepening my knowledge:  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -26,9 +27,13 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/>
-- ✨ I’m focusing on developing my Ruby skills further and learning Ruby on Rails  
+  
+- ✨ I’m focusing on developing my Ruby skills further and learning Ruby on Rails
+  
 - 👯 I’m looking to collaborate on open source projects, small projects, anything I can help with and cut my teeth on!
-- 💬 Ask me about the **Finnish language**, a personal passion of mine!  
+  
+- 💬 Ask me about the **Finnish language**, a personal passion of mine!
+  
 - ⚡ Fun fact: The passive of *virkaa* is *virketään* (though *virketaan* is also attested)
 
 
