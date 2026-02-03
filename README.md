@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d09dd4e7-6640-465d-abed-04b1011bb1f9" width="931" height="470" alt="image"/>
+  <img src="https://github.com/user-attachments/assets/d09dd4e7-6640-465d-abed-04b1011bb1f9" width="467" height="235" alt="image"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-
+---
 
 - 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**  
 - 🌱 I’m currently refreshing (from my degree) and deepening my knowledge:  
