@@ -1,5 +1,6 @@
-## Hi there, I'm Salmonsnake or Samuel
-
+<p align="center">
+  ## Hi there!
+</p>
 <!--
 **Salmonsnake1/Salmonsnake1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,6 +8,16 @@ Here are some ideas to get you started:
 
 
 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d09dd4e7-6640-465d-abed-04b1011bb1f9" width="931" height="470" alt="image"/>
+</p>
+
+<p align="center">
+  <h1>I'm Samuel (pictured right), a recent graduate in Business Information Technology</h1>
+</p>
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-dyson-5107b03a0/">
@@ -20,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**  
-- 🌱 I’m currently refreshing and deepening my knowledge:  
+- 🌱 I’m currently refreshing (from my degree) and deepening my knowledge:  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
