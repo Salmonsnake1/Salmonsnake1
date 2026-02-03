@@ -1,13 +1,9 @@
 <p align="center">
-  ## Hi there!
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/d09dd4e7-6640-465d-abed-04b1011bb1f9" width="931" height="470" alt="image"/>
 </p>
 
 <p align="center">
-  <h1>I'm Samuel (pictured right), a recent graduate in Business Information Technology</h1>
+  <h2>Hi there, I'm Samuel (pictured right), a recent graduate in Business Information Technology</h1>
 </p>
 
 <p align="center">
