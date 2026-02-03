@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Salmonsnake or Samuel
 
 <!--
 **Salmonsnake1/Salmonsnake1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-dyson-5107b03a0/)
+
+
