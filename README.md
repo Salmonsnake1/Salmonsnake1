@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+
 
 - 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**  
 - 🌱 I’m currently refreshing (from my degree) and deepening my knowledge:  
