@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)**
+- 🔭 I’m currently working on a **Finnish numbers project (JavaScript)** and a **Word Pyramid inspired by Yle's Sanapyramidi (Ruby)** and a **Sudoku Generator (Ruby)**
   
 - 🌱 I’m currently refreshing (from my degree) and deepening my knowledge:  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
